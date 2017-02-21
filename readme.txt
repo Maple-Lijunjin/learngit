@@ -6,4 +6,4 @@ I love sally
 first use github.
 Creating a new branch is quick.
 Creating a new branch is quick.new new.
-
+Creating a new branch is quick AND simple.
